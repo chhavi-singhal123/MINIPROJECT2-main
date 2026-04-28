@@ -1,0 +1,7 @@
+{
+  "windowSeconds": 300,
+  "bloomCapacity": 10000,
+  "falsePositiveRate": 0.01,
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-14"
+}
